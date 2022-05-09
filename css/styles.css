@@ -1,0 +1,25 @@
+body{
+  background-color: #A3E4D7;
+}
+hr{
+  background-color: #A2D9CE;
+  border-color: #45B39D;
+  border-width: 5px;
+  border-style: dotted none none none;
+  width: 5%
+}
+img{
+  width: 130px;
+  height: 130px;
+}
+table{
+  background-color:#EB984E;
+  width:100%
+
+}
+td{
+  text-align:left;
+}
+h3{
+  color: #D35400;
+}
